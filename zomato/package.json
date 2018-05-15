@@ -1,0 +1,14 @@
+{
+  "name": "zomato",
+  "version": "1.0.0",
+  "description": "Wrapper for Zomato api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhruval",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^3.8.3"
+  }
+}
